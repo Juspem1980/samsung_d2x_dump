@@ -1,0 +1,7 @@
+# MCPSD
+service mcps-daemon /vendor/bin/mcpsd
+    class main
+    user system
+    group system radio
+    disabled
+    oneshot

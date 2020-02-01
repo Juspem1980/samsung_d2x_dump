@@ -1,0 +1,5 @@
+service perfsdkserver /system/bin/perfsdkserver
+    class core
+    user system
+    group system readproc
+	socket perfsdkserver seqpacket 0660 system system

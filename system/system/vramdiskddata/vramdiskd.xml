@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<records>
+<fixed_app>com.samsung.android.app.spage</fixed_app>
+<fixed_app>com.samsung.android.bixby.agent</fixed_app>
+<preferred_app>com.android.chrome</preferred_app>
+<preferred_app>com.spotify.music</preferred_app>
+<preferred_app>com.netflix.mediaclient</preferred_app>
+<preferred_app>com.sec.android.app.sbrowser</preferred_app>
+<preferred_app>com.google.android.youtube</preferred_app>
+</records>

@@ -1,0 +1,5 @@
+libdepthcam3dmodeling_algorithm.arcsoft.so
+libarc3d_scan.arcsoft.so
+libface_landmark.arcsoft.so
+libArcSoftFaceAlignment.arcsoft.so
+libArcSoft3DStickerEngine.arcsoft.so
